@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA;;;;AAIA","sources":["style.css"],"sourcesContent":["* {\n  margin: 0;\n  outline: none;\n}\n\nbody {\n  overflow: hidden;\n}\n\n#webgl {\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100%;\n  height: 100%;\n}"],"names":[],"version":3,"file":"index.c41b5a0e.css.map","sourceRoot":"/__parcel_source_root/"}
